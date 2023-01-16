@@ -1,0 +1,3 @@
+fastai
+duckduckgo_search
+notebook
